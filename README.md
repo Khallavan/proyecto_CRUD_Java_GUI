@@ -4,10 +4,10 @@ This project focuses on manipulating a SQL database to complete the "final proje
 
 ## Prerequisites
 
-    1. Java SDK 17 (recommended) [Adoptium OpenJDK](https://adoptium.net/).
-    2. [MySQL Community Server](https://dev.mysql.com/downloads/mysql/).
-    3. (Optional) [MySQL Workbench](https://dev.mysql.com/downloads/workbench/).
-    4. (Optional) Use VS code Java's Pack
+- Java SDK 17 (recommended) [Adoptium OpenJDK](https://adoptium.net/).
+- [MySQL Community Server](https://dev.mysql.com/downloads/mysql/).
+- (Optional) [MySQL Workbench](https://dev.mysql.com/downloads/workbench/).
+- (Optional) Use VS code Java's Pack
 
 ## Downloading
 
