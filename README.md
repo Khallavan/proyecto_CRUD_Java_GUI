@@ -1,18 +1,17 @@
-## Getting Started
+# Java and MySQL manipulation with a GUI
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This project focuses on manipulating a SQL database to complete the "final project" for the Programming III course at ECCI University.
 
-## Folder Structure
+## Prerequisites
 
-The workspace contains two folders by default, where:
+    1. Java SDK 17 (recommended) [Adoptium OpenJDK](https://adoptium.net/)
+    2. [MySQL Community Server](https://dev.mysql.com/downloads/mysql/)
+    3. (Optional) [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Downloading
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+``` bash
+git clone https://github.com/Khallavan/proyecto_CRUD_Java_GUI.git
+```
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- execute jar file inside the folder.
